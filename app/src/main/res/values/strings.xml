@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HelloWorldProject</string>
+    <string name="app_name">Hello World Project</string>
+    <string name="button_name">View a Toast</string>
 </resources>
